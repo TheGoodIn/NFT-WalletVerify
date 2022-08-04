@@ -1,0 +1,22 @@
+{
+  "name": "walletverify",
+  "version": "1.0.0",
+  "description": "Verify Wallets using the bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "Goodin",
+  "license": "ISC",
+  "dependencies": {
+    "better-sqlite3": "^7.6.2",
+    "discord-modals": "^1.3.7",
+    "discord-sync-commands": "^0.2.0",
+    "discord.js": "^13.1.0",
+    "ms": "^2.1.2",
+    "npm": "^8.12.2",
+    "quick.db": "^9.0.5",
+    "request": "^2.88.2",
+    "web3": "^1.7.4"
+  }
+}
